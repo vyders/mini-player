@@ -1,59 +1,62 @@
-# Mini Player
+# Mini Launcher
 
-Mini Player adalah plugin Decky Loader yang menyediakan mini browser ringan untuk mengakses layanan web seperti Spotify langsung dari SteamOS Gaming Mode.
+A lightweight launcher plugin for Decky Loader.
 
-Project ini berfokus pada pengalaman yang ringan, cepat, dan mudah digunakan tanpa mengganggu permainan.
+Mini Launcher lets you create your own launcher list and quickly open your favorite web applications using the SteamOS built-in browser.
 
----
+Unlike traditional browser plugins, Mini Launcher does not include an embedded browser or preconfigured services. Everything is managed by the user.
 
-## Status
+## Features
 
-🚧 Dalam tahap pengembangan.
+- Lightweight and fast
+- User-defined launchers
+- Open websites with the SteamOS browser
+- No built-in web services
+- No browser engine
+- Easy to extend
 
----
+## Planned Features
 
-## Tujuan Project
+- Create launcher
+- Edit launcher
+- Delete launcher
+- Reorder launcher
+- Custom icons
+- Import / Export launcher list
+- GitHub update support
 
-- Mini browser di sidebar Decky
-- Tampilan mobile yang responsif
-- Mendukung background session
-- Integrasi dengan browser SteamOS
-- Instalasi dan update melalui GitHub
-- Ringan dan mudah dikembangkan
+## Philosophy
 
----
+Mini Launcher is designed to be generic.
 
-## Roadmap
+The plugin never ships with predefined services or branded content.
 
-### v0.1
+Users decide what to launch.
 
-- [ ] Struktur project
-- [ ] Setup Decky Plugin
-- [ ] Mini Browser
-- [ ] GitHub Update System
+Examples include:
 
-### v0.2
+- Music services
+- Cloud gaming
+- AI assistants
+- Documentation
+- Personal websites
 
-- [ ] Session Manager
-- [ ] Browser Controls
-- [ ] Background Support
+## Project Status
 
-### v1.0
+Current Stage:
 
+Project Foundation
+
+## Development Roadmap
+
+- [x] Repository setup
+- [x] Project structure
+- [x] Development environment
+- [ ] Plugin foundation
+- [ ] Launcher management
+- [ ] Open URL
+- [ ] Settings
 - [ ] Stable Release
-
----
-
-## Development
-
-Project ini dikembangkan menggunakan:
-
-- TypeScript
-- React
-- Python
-- Decky Loader
-
----
 
 ## License
 
