@@ -1,0 +1,14 @@
+{
+  "name": "Mini Launcher",
+  "author": "Vyders",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": [
+      "launcher",
+      "utility"
+    ],
+    "description": "A lightweight Decky Loader plugin that lets users create and launch their own web shortcuts using the SteamOS built-in browser.",
+    "image": ""
+  }
+}
